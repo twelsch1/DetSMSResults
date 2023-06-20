@@ -1,0 +1,8 @@
+     Population Size - 2500 
+     Maximum number of generations - 25
+     Probability of Mutation - 0.1 
+     Probability of Reproduction - 0.1
+     Probability of Crossover - 0.9 
+     Selection method - Tournament Selection 
+     Tournament size - 15 
+     Evolution method - Generational 
